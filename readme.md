@@ -11,8 +11,8 @@ Before running this project, ensure you have the following installed:
 ## Installation
 ```sh
 # Clone the repository
-git clone https://github.com/your-repo/fetch-business-data.git
-cd fetch-business-data
+git clone https://github.com/Auxioma/Scrapping.git
+cd Scrapping
 
 # Install dependencies
 npm install
