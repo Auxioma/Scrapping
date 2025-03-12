@@ -1,0 +1,17 @@
+{
+  "name": "scrapping",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "ets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "json2csv": "^6.0.0-alpha.2",
+    "node-fetch": "^3.3.2",
+    "undici": "^7.4.0"
+  }
+}
